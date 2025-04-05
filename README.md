@@ -44,14 +44,13 @@ You Tell Me :)
 
 Before starting the installation, make sure to configure the BIOS as follows:
 
-| Path                                                       Desired   
-|--------------------------------------------------------  ------------
-| Security > Secure Boot Configuration > Secure Boot      **Disabled** 
-| Advanced > Boot Options > Fast Boot                     **Disabled** 
-| Advanced > Built-In Device Options > Wake on WLAN       **Disabled** 
-| Advanced > Power Management Options > PCIe Power Mgmt   **Disabled** 
-| Advanced > Boot Options > Video Memory Size               **64MB**     
-
+| Setting | Value |
+|---------|-------|
+| Secure Boot | Disabled |
+| Fast Boot | Disabled |
+| Wake on WLAN | Disabled |
+| PCI Express Power Management | Disabled |
+| Video Memory Size | 64MB |
 ---
 
 ## Installation Guide
